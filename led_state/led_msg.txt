@@ -1,0 +1,2 @@
+state:15
+battery:56
